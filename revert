@@ -2,5 +2,6 @@ declare
 a number;
 begin
 dbms_output.put_line('hello');
+null;
 end;
 /
