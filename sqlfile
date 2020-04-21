@@ -1,5 +1,6 @@
 declare
 a number;
+b number;
 begin
 dbms_output.put_line('hello');
 null;
