@@ -3,5 +3,6 @@ a number;
 begin
 dbms_output.put_line('hello');
 null;
+dbms_output.put_line('after null');
 end;
 /
