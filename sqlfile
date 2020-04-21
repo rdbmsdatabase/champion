@@ -4,6 +4,6 @@ b number;
 begin
 dbms_output.put_line('hello');
 null;
-dbms_output.put_line('lineadded');
+dbms_output.put_line('lineadded also extended');
 end;
 /
